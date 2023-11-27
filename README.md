@@ -6,7 +6,7 @@
 
 <h1>URL</h1>
 
-file:///Users/gwenncreative/bootcamp/class-things/challenge-1/Develop/index.html 
+
 
 <h1>Screenshot</h1>
 
